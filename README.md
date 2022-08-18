@@ -12,6 +12,7 @@ Java game application built with gradle (USYD 2022_s1 coursework)
 - Configs within config.json
 ```
 gradle build
+gradle build jacocoTestReport
 gradle run
 gradle javadoc
 ```
