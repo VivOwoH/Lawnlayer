@@ -16,3 +16,4 @@ gradle run
 gradle javadoc
 ```
 
+![class diagram](https://github.com/VivOwoH/Lawnlayer/blob/main/UML%20class.png?raw=true)
